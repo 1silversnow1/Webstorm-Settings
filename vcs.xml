@@ -3,47 +3,143 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://git.lohika.com/novartis-soc/soc-backend.git" />
+          <option name="url" value="git@bitbucket.org:emsv2/setup.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://git.lohika.com" />
-          <option name="userName" value="vsniehurov" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git.lohika.com/novartis-soc/soc-frontend.git" />
+          <option name="url" value="git@bitbucket.org:emsv2/gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.lohika.com/novartis-soc/soc-infra.git" />
+          <option name="url" value="git@bitbucket.org:emsv2/logos-front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.lohika.com:novartis-soc/soc-infra.git" />
+          <option name="url" value="git@bitbucket.org:emsv2/auth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.lohika.com:novartis-soc/soc-backend.git" />
+          <option name="url" value="git@bitbucket.org:emsv2/dispatcher.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.lohika.com:novartis-soc/soc-frontend.git" />
+          <option name="url" value="git@bitbucket.org:emsv2/v2tools.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.lohika.com:vsniehurov/soc-infra.git" />
+          <option name="url" value="git@bitbucket.org:emsv2/dockercompose.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.lohika.com:vsniehurov/soc-backend.git" />
+          <option name="url" value="https://github.com/danielstern/redux-saga-shopping-cart-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.lohika.com:vsniehurov/soc-frontend.git" />
+          <option name="url" value="https://github.com/danielstern/redux-saga-cart.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/GuillaumeJasmin/react-table-hoc-fixed-columns.git" />
+          <option name="url" value="https://github.com/danielstern/redux-saga-sandbox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/joeeames/WebpackFundamentalsCourse.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/getcanvases.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/getlimitdef.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/limitcreate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/processapproval.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1silversnow1/webpack-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/getpenactions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/johnpapa/pluralsight-gulp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jamischarles/ps_eslint.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1silversnow1/ps_eslint.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://timofey%40qedata.io@scmbbd.cmo.cibc.com/scm/tescsi/ems_websockets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/websockets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MichaelSEA/hotpie.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/getusers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.do-it.co:getupandgo/pingwin-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.do-it.co:getupandgo/pingwin-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/getevents.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KleoPetroff/react-webpack-boilerplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/websocket.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/globalsearch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:emsv2/getnodes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1silversnow1/Recompose-Examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/troy_kearney/simple-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1silversnow1/dagbladet-parser.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -51,29 +147,14 @@
           <option name="userName" value="vladislavsnow@gmail.com" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/1silversnow1/react-table-hoc-fixed-columns.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://github.com/1silversnow1/SOLID.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Study/SOLID" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="MIGRATED" value="true" />
   </component>
 </application>
