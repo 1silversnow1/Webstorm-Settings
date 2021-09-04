@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="classname" value="&lt;div className={styles['']}&gt;&lt;/div&gt;" description="Creates react className" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://172.24.10.68:9000/" />
+          <token>dfc9df93df93dfcedf9adf99df9bdf9edf9edfcbdf9adf99df9ddf9ddfcbdf98dfcfdf9fdf9adfcbdf99dfcbdfc9df98df9edfcedf93df9ddf9cdf93df9ddf9adfc8dfccdf92df9cdfcfdfcedf93df9e</token>
+          <option name="name" value="SENSE" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
